@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+ <channel>
+  <title>Leporello.js</title>
+  <description>Interactive functional programming IDE for JavaScript</description>  
+  <link>https://leporello.tech</link>
+   <item>
+     <title>Leporello.js site is live!</title>
+     <description></description>
+     <pubDate>2023-07-10T13:52:55.956Z</pubDate>
+     <link>https://leporello.tech</link>
+     <guid isPermaLink="false">site_is_live</guid>
+   </item>
+ </channel>
+</rss>
