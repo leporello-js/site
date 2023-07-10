@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
  <channel>
   <title>Leporello.js</title>
   <description>Interactive functional programming IDE for JavaScript</description>  
   <link>https://leporello.tech</link>
+  <atom:link href="https://leporello.tech/rss.xml" rel="self" type="application/rss+xml" />
    <item>
      <title>Leporello.js site is live!</title>
      <description></description>
-     <pubDate>2023-07-10T13:52:55.956Z</pubDate>
+     <pubDate>Mon, 10 Jul 2023 14:20:47 GMT</pubDate>
      <link>https://leporello.tech</link>
      <guid isPermaLink="false">site_is_live</guid>
    </item>
