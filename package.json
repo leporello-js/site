@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "marked": "^11.1.1"
+  }
+}

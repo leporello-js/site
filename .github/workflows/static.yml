@@ -35,6 +35,7 @@ jobs:
         uses: actions/configure-pages@v4
       - name: Build
         run: |
+          npm ci
           ./build.sh
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3

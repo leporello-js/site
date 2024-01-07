@@ -6,6 +6,13 @@
   <link>https://leporello.tech</link>
   <atom:link href="https://leporello.tech/rss.xml" rel="self" type="application/rss+xml" />
    <item>
+     <title>Leporello.js now supports time-travel debugging for mutable data</title>
+     <description></description>
+     <pubDate>Thu, 4 Jan 2024 13:00:00 GMT</pubDate>
+     <link>https://leporello.tech/blog/mutable_data/</link>
+     <guid isPermaLink="false">mutable_data</guid>
+   </item>
+   <item>
      <title>Leporello.js site is live!</title>
      <description></description>
      <pubDate>Mon, 10 Jul 2023 14:20:47 GMT</pubDate>
