@@ -6,6 +6,13 @@
   <link>https://leporello.tech</link>
   <atom:link href="https://leporello.tech/rss.xml" rel="self" type="application/rss+xml" />
    <item>
+     <title>Can debugging be liberated from the von Neumann style?</title>
+     <description></description>
+     <pubDate>Sat, 20 Jan 2024 13:00:00 GMT</pubDate>
+     <link>https://leporello.tech/blog/can_debugging_be_liberated_from_the_von_neumann_style/</link>
+     <guid isPermaLink="false">can_debugging_be_liberated_from_the_von_neumann_style</guid>
+   </item>
+   <item>
      <title>Leporello.js now supports time-travel debugging for mutable data</title>
      <description></description>
      <pubDate>Thu, 4 Jan 2024 13:00:00 GMT</pubDate>
