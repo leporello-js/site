@@ -6,6 +6,13 @@
   <link>https://leporello.tech</link>
   <atom:link href="https://leporello.tech/rss.xml" rel="self" type="application/rss+xml" />
    <item>
+     <title>Teach Programming and Algorithms More Effectively with Leporello.js</title>
+     <description></description>
+     <pubDate>Wed, 31 Dec 2024 13:00:00 GMT</pubDate>
+     <link>https://leporello.tech/blog/teach_programming_and_algorithms_more_effectively_with_leporello_js/</link>
+     <guid isPermaLink="false">teach_programming_and_algorithms_more_effectively_with_leporello_js</guid>
+   </item>
+   <item>
      <title>Can debugging be liberated from the von Neumann style?</title>
      <description></description>
      <pubDate>Sat, 20 Jan 2024 13:00:00 GMT</pubDate>
