@@ -6,6 +6,13 @@
   <link>https://leporello.tech</link>
   <atom:link href="https://leporello.tech/rss.xml" rel="self" type="application/rss+xml" />
    <item>
+     <title>You don't need Webpack for hot reload</title>
+     <description></description>
+     <pubDate>Sat, 3 Feb 2024 13:00:00 GMT</pubDate>
+     <link>https://leporello.tech/blog/you_dont_need_webpack_for_hot_reload/</link>
+     <guid isPermaLink="false">you_dont_need_webpack_for_hot_reload</guid>
+   </item>
+   <item>
      <title>Teach Programming and Algorithms More Effectively with Leporello.js</title>
      <description></description>
      <pubDate>Wed, 31 Dec 2024 13:00:00 GMT</pubDate>
