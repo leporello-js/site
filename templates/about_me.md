@@ -34,6 +34,8 @@ An online presentation tool
 
 <img class='project-embed' src='https://raw.githubusercontent.com/redactor-gn/redactor-gn.github.io/master/docs/1.png'></img>
 
+## [My blog](https://leporello.tech/blog)
+
 ## My talks
 
 ### Towards a new development experience with Leporello.js (in Russian)
