@@ -235,3 +235,5 @@ Jamie Brandon, in his excellent essay ["Pain we forgot"](http://lighttable.com/2
 _Much of the pain in programming is taken for granted. After years of repetition it fades into the background and is forgotten. The first step in making programming easier is to be conscious of what makes it hard._
 
 In the process of learning programming, the future programmer must learn to simulate the execution of code in their mind, holding the changing context in which this code is executed. This is a very difficult task. If we provide students with the right tools, we can make this task easier and make programming education less painful.
+
+__Update:__ _Leporello.js now allows programming and debugging [2D graphics and animation](/blog/2d_graphics_and_animation_with_time_travel/), making it an excellent material for programming education._

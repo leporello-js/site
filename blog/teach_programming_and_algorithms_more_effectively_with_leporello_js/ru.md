@@ -235,3 +235,5 @@ Jamie Brandon в своем великолепном эссе [Pain we forgot](h
 _Much of the pain in programming is taken for granted. After years of repetition it fades into the background and is forgotten. The first step in making programming easier is to be concious of what makes it hard._
 
 В процессе обучения программированию, будущий программист должен научиться симулировать выполнение кода в уме, удерживая в голове меняющийся контекст в котором этот код выполняется. Это очень сложная задача. Если мы дадим студенту подходящие инструменты, мы сможем облегчить эту задачу и сделать обучение программированию менее болезнненым.
+
+__Обновление:__ _Leporello.js теперь позволяет программировать и отлаживать [2d-графикy и анимацию](/blog/2d_graphics_and_animation_with_time_travel/), что является отличным материалом для обучения программированию_
