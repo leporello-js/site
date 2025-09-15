@@ -1,29 +1,16 @@
-  <div class="container px-4">
-    <div class='row text-center'>
-      <h1>🎄🎄🎄 New 2024 Year update!</h1>
-      <a style='font-size: 1.5em' href='/blog/2d_graphics_and_animation_with_time_travel/'>
-        2D graphics and animation with time-travel debugging
-      </a>
-      <a style='font-size: 1.5em' href='/blog/mutable_data/'>
-        Leporello.js now supports time-travel debugging for mutable data
-      </a>
-    </div>
-
-  </div>
-
   <script>
     const FEATURES_TEXT = `
     - Interactive
 
     Your code is executed instantly as you type, with the results displayed next to it. No need to set breakpoints for debugging. Just move the cursor to any line and see what's happening.
 
-    - Designed for functional programming
-
-    Supercharge your functional code with unprecedented developer tooling.
-
     - Next level debugging capabilities
 
-    Visualise and navigate a dynamic call graph of your program in a time-travel manner.
+    Visualise and navigate a dynamic call graph of your program
+
+    - Time-travel debugging
+
+    Step backward and forward through your program’s execution to instantly inspect past states and replay code behavior.
 
     - Develop HTML5 apps interactively
 
@@ -33,9 +20,9 @@
 
     IO operations are traced and transparently replayed on subsequent program executions.
 
-    - Self-hosted
+    - Seamless NPM Imports
 
-    Leporello.js source code is developed within Leporello.js itself
+    Instantly import any npm package without setup or configuration, just by typing a standard import statement.
   `
     const lines = FEATURES_TEXT.split('\n\n').map(line => line.trim())
     const headers = lines.filter(line => line.startsWith('-')).map(l => l.replace('-', ''))
@@ -50,7 +37,7 @@
           </div>
         <div class="col-lg-4">
           <h1 class="display-5 fw-bold text-body-emphasis lh-1 mb-3">Leporello.js</h1>
-          <p class="lead">Interactive functional programming IDE for JavaScript</p>
+          <p class="lead">Online JavaScript/TypeScript playground and debugger</p>
           <div class="d-flex justify-content-center justify-content-lg-start">
             <a href='https://app.leporello.tech' type="button" class="btn btn-primary btn-lg px-4 me-md-2">Try online</a>
           </div>
@@ -83,7 +70,7 @@
         <h1 class="display-5 fw-bold text-center">Recent blog entries</h1>
         <div class='my-3 fs-5'>
           <li>
-            <i style='margin-right: 1em'>&#10240;1 Feb 2024</i>
+            <i style='margin-right: 1em'>01 Feb 2024</i>
             <a href='/blog/teach_programming_and_algorithms_more_effectively_with_leporello_js/'>
               Teach Programming and Algorithms More Effectively with Leporello.js
             </a>
@@ -95,7 +82,7 @@
             </a>
           </li>
           <li>
-            <i style='margin-right: 1em'>&#10240;8 Jan 2024</i>
+            <i style='margin-right: 1em'>08 Jan 2024</i>
             <a href='/blog/mutable_data/'>
               Leporello.js now supports time-travel debugging for mutable data
             </a>
