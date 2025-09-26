@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
  <channel>
   <title>Leporello.js</title>
-  <description>Interactive functional programming IDE for JavaScript</description>  
+  <description>Online JavaScript/TypeScript playground and debugger</description>  
   <link>https://leporello.tech</link>
   <atom:link href="https://leporello.tech/rss.xml" rel="self" type="application/rss+xml" />
    <item>
