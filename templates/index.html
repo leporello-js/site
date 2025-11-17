@@ -28,15 +28,18 @@
 
     Use any third-party JavaScript library to visualize your data next to the code.
 
-    - TypeScript support
+    #- TypeScript support
 
-    Powered by Monaco Editor
+    #Powered by Monaco Editor
 
     - Seamless NPM Imports
 
     Instantly import any npm package without setup or configuration, just by typing a standard import statement.
   `
-    const lines = FEATURES_TEXT.split('\n\n').map(line => line.trim())
+    const lines = FEATURES_TEXT
+      .split('\n\n')
+      .map(line => line.trim())
+      .filter(line => !line.startsWith('#'))
     const headers = lines.filter(line => line.startsWith('-')).map(l => l.replace('-', ''))
     const desc = lines.filter(line => !line.startsWith('-'))
     const FEATURES = headers.map((header,i) => ({header, desc: desc[i]}))
@@ -66,6 +69,38 @@
       </div>
 
       <div class="row g-4 py-2 py-md-4 py-lg-5 row-cols-1 row-cols-md-2 row-cols-lg-3">
+        <div class="feature col">
+          <style>
+
+          .new-feature {
+            text-decoration: none;
+          }
+
+          .new-feature-header {
+            style: text-decoration: underline;
+          }
+
+          .new {
+            font-size: 0.8em;
+            border-radius: 1em;
+            color: #c94747;
+            background-color: #fff0b2;
+            padding: 0.2em 0.5em;
+          }
+          </style>
+          <h3 class="fs-2 text-body-emphasis">
+            <span class='new-feature' href='/blog'>
+              <span class='new'>New</span>
+              <span class='new-feature-header'>
+              Inspect JSX
+              </span>
+            </span>
+          </h3>
+          <p> Click a DOM element to jump to its corresponding JSX in the debugger. Inspect all related variables, arguments, and expressions in context.
+          <a href='/blog/inspect_jsx'>Read more</a>
+          </p>
+        </div>
+
         <script>
           for (const {header, desc} of FEATURES) {
             document.write(`

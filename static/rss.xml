@@ -6,6 +6,13 @@
   <link>https://leporello.tech</link>
   <atom:link href="https://leporello.tech/rss.xml" rel="self" type="application/rss+xml" />
    <item>
+     <title>Inspect JSX</title>
+     <description>Click a DOM element to jump to its corresponding JSX in the debugger. Inspect all related variables, arguments, and expressions in context.</description>
+     <pubDate>Mon, 17 Nov 01:00:00 GMT</pubDate>
+     <link>https://leporello.tech/blog/inspect_jsx/</link>
+     <guid isPermaLink="false">inspect_jsx</guid>
+   </item>
+   <item>
      <title>2D graphics and animation with time-travel debugging in JavaScript</title>
      <description></description>
      <pubDate>Thu, 7 Mar 2024 13:00:00 GMT</pubDate>

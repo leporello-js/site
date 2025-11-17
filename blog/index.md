@@ -1,5 +1,6 @@
 # Leporello.js blog
 
+- *17 Nov 2025*&emsp;[Inspect JSX](./inspect_jsx/) 
 - *7 Mar 2024*&emsp;[2D graphics and animation with time-travel debugging in JavaScript](./2d_graphics_and_animation_with_time_travel/) 
 - *3 Feb 2024*&emsp;[You don't need Webpack for hot reload](./you_dont_need_webpack_for_hot_reload/) 
 - *1 Feb 2024*&emsp;[Teach Programming and Algorithms More Effectively with Leporello.js](./teach_programming_and_algorithms_more_effectively_with_leporello_js/) 
