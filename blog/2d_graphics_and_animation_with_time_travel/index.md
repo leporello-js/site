@@ -54,6 +54,8 @@ Note that debugging the program using the calltree view remains unchanged compar
 
 To restart the animation, refresh (Ctrl-R) the window where the application is running.
 
+<!--span></span>
+
 ## Animation using `setInterval`
 
 Leporello.js also allows debugging animations in a time-travel manner. For JavaScript animation, the `setInterval(callback, delay)` function is used, which repeatedly calls the `callback` function after a delay.
@@ -89,7 +91,7 @@ circles = circles.concat(Array.from({length: 50}, () => (
 
 By selecting with the `Ctrl-ArrowDown` shortcut the `circles` identifier to the right of the assignment `=`, you see an empty array (the initial value of the `circles` variable). By selecting the `circles` identifier to the left of the `=`, you see the next value (an array of 50 elements):
 
-<video src='./media/debug_bubbles_timetravel.mov' controls></video>
+<video src='./media/debug_bubbles_timetravel.mov' controls></video-->
 
 ## Programming education
 

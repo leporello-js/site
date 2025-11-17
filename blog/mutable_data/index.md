@@ -2,6 +2,9 @@
 
 _4 Jan 2024_
 
+
+**2025 update. This article is outdated. The internals of Leporello.js have been redesigned, and Leporello.js now supports the full JavaScript/TypeScript subset, not just the functional one. Among other things, Leporello.js now supports loops. The section about limitations is no longer relevant.**
+
 I've prepared a big New Year update for you on Leporello.js!
 
 Initially, Leporello.js was conceived as an IDE for a pure functional subset of JS. This allowed for quickly creating a working prototype and testing out ideas. But it's time to move forward. Now, Leporello.js also supports mutable data while retaining all of its declared functionality and expanding it! We've taken an important step towards supporting the full subset of JavaScript!
