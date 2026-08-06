@@ -1,5 +1,6 @@
 # Leporello.js blog
 
+- *7 Aug 2026*&emsp;[When vibecoding, do not review the code - review the data structures](./when_vibecoding_review_the_data_structures_not_the_code/) 
 - *17 Nov 2025*&emsp;[Inspect JSX](./inspect_jsx/) 
 - *7 Mar 2024*&emsp;[2D graphics and animation with time-travel debugging in JavaScript](./2d_graphics_and_animation_with_time_travel/) 
 - *3 Feb 2024*&emsp;[You don't need Webpack for hot reload](./you_dont_need_webpack_for_hot_reload/) 

@@ -6,6 +6,13 @@
   <link>https://leporello.tech</link>
   <atom:link href="https://leporello.tech/rss.xml" rel="self" type="application/rss+xml" />
    <item>
+     <title>When vibecoding, do not review the code - review the data structures</title>
+     <description>When I read online discussions of vibecoding (now rebranded as "agentic programming"), I never see this simple principle being mentioned.</description>
+     <pubDate>Fri, 7 Aug 2026 21:42:20 GMT</pubDate>
+     <link>https://leporello.tech/blog/when_vibecoding_review_the_data_structures_not_the_code/</link>
+     <guid isPermaLink="false">when_vibecoding_review_the_data_structures_not_the_code</guid>
+   </item>
+   <item>
      <title>Inspect JSX</title>
      <description>Click a DOM element to jump to its corresponding JSX in the debugger. Inspect all related variables, arguments, and expressions in context.</description>
      <pubDate>Mon, 17 Nov 01:00:00 GMT</pubDate>
